@@ -1,0 +1,12 @@
+discord
+ultralytics
+selenium
+requests
+Pillow
+opencv-python
+numpy
+keyboard
+roboflow
+webdriver-manager
+onnx
+onnxsim
